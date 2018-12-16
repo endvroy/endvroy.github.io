@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruoyi Wang&#39;s homepage on Ruoyi Wang&#39;s homepage</title>
-    <link>/</link>
-    <description>Recent content in Ruoyi Wang&#39;s homepage on Ruoyi Wang&#39;s homepage</description>
+    <title>Projects on Ruoyi Wang&#39;s homepage</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Ruoyi Wang&#39;s homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>STOKE for HRM</title>

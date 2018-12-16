@@ -1,1 +1,1 @@
-[]
+[{"authors":null,"categories":null,"content":"","date":1461740400,"expirydate":-62135596800,"kind":"page","lang":"en","lastmod":1461740400,"objectID":"9bf2da6304e9398be49d6e492cb88b45","permalink":"/project/stoke/","publishdate":"2016-04-27T00:00:00-07:00","relpermalink":"/project/stoke/","section":"project","summary":"Applied stochastic superoptimization to the architecture defined in the game Human Resource Machine. Designed a cost function specific to the task. Efficiently implemented in Rust.\n","tags":[],"title":"STOKE for HRM","type":"project"}]
