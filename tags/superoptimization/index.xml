@@ -21,5 +21,14 @@
       <description>In this project, I investigated how well stochastic superoptimization can be migrated to a different architecture. Stochastic superiotimization uses Markov Chain Monte Carlo (MCMC) to sample to program space, using a cost function to guide the sampling process. Human Resource Machine is a game about assembly programming. The architecture operates with one-address code, only one register, one input/output stream and limited memory. The project is efficiently implemented in Rust.</description>
     </item>
     
+    <item>
+      <title>SuperHuman</title>
+      <link>/projects/superhuman/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/projects/superhuman/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
