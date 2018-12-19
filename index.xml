@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Code Generation from NL</title>
+      <link>/project/code_gen/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
+      
+      <guid>/project/code_gen/</guid>
+      <description>&lt;p&gt;details will be revealed after the review process&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hybrid Training Neural Programmer-Interpreters</title>
       <link>/project/hybrid_npi/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
@@ -64,16 +74,6 @@
       
       <guid>/project/linguist/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Code Generation from NL</title>
-      <link>/project/code_gen/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>/project/code_gen/</guid>
-      <description>&lt;p&gt;details will be revealed after the review process&lt;/p&gt;
-</description>
     </item>
     
   </channel>
