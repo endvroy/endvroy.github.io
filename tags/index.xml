@@ -66,6 +66,15 @@
     </item>
     
     <item>
+      <title>os</title>
+      <link>/tags/os/</link>
+      <pubDate>Fri, 03 Feb 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>program analysis</title>
       <link>/tags/program-analysis/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
@@ -98,6 +107,15 @@
       <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
       
       <guid>/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shell</title>
+      <link>/tags/shell/</link>
+      <pubDate>Fri, 03 Feb 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/shell/</guid>
       <description></description>
     </item>
     

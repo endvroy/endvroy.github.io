@@ -85,6 +85,15 @@
     </item>
     
     <item>
+      <title>my shell</title>
+      <link>/project/my_shell/</link>
+      <pubDate>Fri, 03 Feb 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/project/my_shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MiniSQL</title>
       <link>/project/minisql/</link>
       <pubDate>Wed, 25 Jan 2017 00:00:00 -0800</pubDate>
