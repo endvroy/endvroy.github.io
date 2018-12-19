@@ -28,6 +28,14 @@
     
     <url>
     
+      <loc>/project/web_tetris/</loc>
+      <lastmod>2017-12-05T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/buffer-overflow-detector/</loc>
       <lastmod>2017-10-15T00:00:00-07:00</lastmod>
     </url>
@@ -145,6 +153,15 @@
     
     <url>
     
+      <loc>/tags/flask/</loc>
+      <lastmod>2017-12-05T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/machine-learning/</loc>
       <lastmod>2018-12-10T00:00:00-08:00</lastmod>
       <priority>0</priority>
@@ -201,6 +218,33 @@
     
       <loc>/tags/superoptimization/</loc>
       <lastmod>2018-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/web-app/</loc>
+      <lastmod>2017-12-05T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/web-development/</loc>
+      <lastmod>2017-12-05T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/websocket/</loc>
+      <lastmod>2017-12-05T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     

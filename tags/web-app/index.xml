@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web app on Ruoyi Wang&#39;s homepage</title>
+    <link>/tags/web-app/</link>
+    <description>Recent content in web app on Ruoyi Wang&#39;s homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/tags/web-app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>webtetris</title>
+      <link>/project/web_tetris/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/project/web_tetris/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

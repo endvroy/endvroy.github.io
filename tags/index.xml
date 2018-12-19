@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>flask</title>
+      <link>/tags/flask/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>machine learning</title>
       <link>/tags/machine-learning/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
@@ -98,6 +107,33 @@
       <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
       
       <guid>/tags/superoptimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web app</title>
+      <link>/tags/web-app/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/web-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web development</title>
+      <link>/tags/web-development/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/web-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>websocket</title>
+      <link>/tags/websocket/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/websocket/</guid>
       <description></description>
     </item>
     
