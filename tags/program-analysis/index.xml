@@ -14,28 +14,28 @@
     
     <item>
       <title>Buffer Overflow Detector</title>
-      <link>/project/buffer-overflow-detector/</link>
+      <link>/projects/buffer-overflow-detector/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
       
-      <guid>/project/buffer-overflow-detector/</guid>
+      <guid>/projects/buffer-overflow-detector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Path Profiler</title>
-      <link>/project/efficient_path_profiler/</link>
+      <link>/projects/efficient_path_profiler/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 -0700</pubDate>
       
-      <guid>/project/efficient_path_profiler/</guid>
+      <guid>/projects/efficient_path_profiler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Call Graph Profiler</title>
-      <link>/project/call_graph_profiler/</link>
+      <link>/projects/call_graph_profiler/</link>
       <pubDate>Sat, 16 Sep 2017 00:00:00 -0700</pubDate>
       
-      <guid>/project/call_graph_profiler/</guid>
+      <guid>/projects/call_graph_profiler/</guid>
       <description></description>
     </item>
     

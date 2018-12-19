@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruoyi Wang&#39;s homepage on Ruoyi Wang&#39;s homepage</title>
-    <link>/</link>
-    <description>Recent content in Ruoyi Wang&#39;s homepage on Ruoyi Wang&#39;s homepage</description>
+    <title>Projects on Ruoyi Wang&#39;s homepage</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on Ruoyi Wang&#39;s homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Code Generation from NL</title>
@@ -16,8 +18,7 @@
       <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
       
       <guid>/projects/code_gen/</guid>
-      <description>&lt;p&gt;details will be revealed after the review process&lt;/p&gt;
-</description>
+      <description>details will be revealed after the review process</description>
     </item>
     
     <item>
@@ -26,8 +27,7 @@
       <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
       
       <guid>/projects/hybrid_npi/</guid>
-      <description>&lt;p&gt;details will be revealed after the review process&lt;/p&gt;
-</description>
+      <description>details will be revealed after the review process</description>
     </item>
     
     <item>
@@ -36,8 +36,7 @@
       <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
       
       <guid>/projects/stoke/</guid>
-      <description>&lt;p&gt;In this project, I investigated how well &lt;a href=&#34;http://stoke.stanford.edu/&#34; target=&#34;_blank&#34;&gt;stochastic superoptimization&lt;/a&gt; can be migrated to a different architecture. Stochastic superiotimization uses Markov Chain Monte Carlo (MCMC) to sample to program space, using a cost function to guide the sampling process. &lt;a href=&#34;https://tomorrowcorporation.com/humanresourcemachine&#34; target=&#34;_blank&#34;&gt;Human Resource Machine&lt;/a&gt; is a game about assembly programming. The architecture operates with one-address code, only one register, one input/output stream and limited memory. The project is efficiently implemented in Rust.&lt;/p&gt;
-</description>
+      <description>In this project, I investigated how well stochastic superoptimization can be migrated to a different architecture. Stochastic superiotimization uses Markov Chain Monte Carlo (MCMC) to sample to program space, using a cost function to guide the sampling process. Human Resource Machine is a game about assembly programming. The architecture operates with one-address code, only one register, one input/output stream and limited memory. The project is efficiently implemented in Rust.</description>
     </item>
     
     <item>
