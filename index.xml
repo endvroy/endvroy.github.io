@@ -11,21 +11,68 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Code Generation from NL</title>
-      <link>/project/code_gen/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      <title>Hybrid Training Neural Programmer-Interpreters</title>
+      <link>/project/hybrid_npi/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
       
-      <guid>/project/code_gen/</guid>
-      <description></description>
+      <guid>/project/hybrid_npi/</guid>
+      <description>&lt;p&gt;details will be revealed after the review process&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>STOKE for HRM</title>
       <link>/project/stoke/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/stoke/</guid>
       <description>&lt;p&gt;In this project, I investigated how well &lt;a href=&#34;http://stoke.stanford.edu/&#34; target=&#34;_blank&#34;&gt;stochastic superoptimization&lt;/a&gt; can be migrated to a different architecture. Stochastic superiotimization uses Markov Chain Monte Carlo (MCMC) to sample to program space, using a cost function to guide the sampling process. &lt;a href=&#34;https://tomorrowcorporation.com/humanresourcemachine&#34; target=&#34;_blank&#34;&gt;Human Resource Machine&lt;/a&gt; is a game about assembly programming. The architecture operates with one-address code, only one register, one input/output stream and limited memory. The project is efficiently implemented in Rust.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Buffer Overflow Detector</title>
+      <link>/project/buffer-overflow-detector/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/project/buffer-overflow-detector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Path Profiler</title>
+      <link>/project/efficient_path_profiler/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/project/efficient_path_profiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Call Graph Profiler</title>
+      <link>/project/call_graph_profiler/</link>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/project/call_graph_profiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linguist</title>
+      <link>/project/linguist/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/project/linguist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code Generation from NL</title>
+      <link>/project/code_gen/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/code_gen/</guid>
+      <description>&lt;p&gt;details will be revealed after the review process&lt;/p&gt;
 </description>
     </item>
     

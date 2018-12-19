@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>machine learning on Ruoyi Wang&#39;s homepage</title>
-    <link>/tags/machine-learning/</link>
-    <description>Recent content in machine learning on Ruoyi Wang&#39;s homepage</description>
+    <title>program induction on Ruoyi Wang&#39;s homepage</title>
+    <link>/tags/program-induction/</link>
+    <description>Recent content in program induction on Ruoyi Wang&#39;s homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 10 Dec 2018 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/program-induction/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
       
       <guid>/project/hybrid_npi/</guid>
-      <description>details will be revealed after the review process</description>
-    </item>
-    
-    <item>
-      <title>Code Generation from NL</title>
-      <link>/project/code_gen/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>/project/code_gen/</guid>
       <description>details will be revealed after the review process</description>
     </item>
     

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>program synthesis on Ruoyi Wang&#39;s homepage</title>
-    <link>/tags/program-synthesis/</link>
-    <description>Recent content in program synthesis on Ruoyi Wang&#39;s homepage</description>
+    <title>superoptimization on Ruoyi Wang&#39;s homepage</title>
+    <link>/tags/superoptimization/</link>
+    <description>Recent content in superoptimization on Ruoyi Wang&#39;s homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jul 2018 00:00:00 -0700</lastBuildDate>
     
-	<atom:link href="/tags/program-synthesis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/superoptimization/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>/project/stoke/</guid>
       <description>In this project, I investigated how well stochastic superoptimization can be migrated to a different architecture. Stochastic superiotimization uses Markov Chain Monte Carlo (MCMC) to sample to program space, using a cost function to guide the sampling process. Human Resource Machine is a game about assembly programming. The architecture operates with one-address code, only one register, one input/output stream and limited memory. The project is efficiently implemented in Rust.</description>
-    </item>
-    
-    <item>
-      <title>Code Generation from NL</title>
-      <link>/project/code_gen/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>/project/code_gen/</guid>
-      <description>details will be revealed after the review process</description>
     </item>
     
   </channel>

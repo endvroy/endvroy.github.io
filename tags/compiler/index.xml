@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>compiler on Ruoyi Wang&#39;s homepage</title>
+    <link>/tags/compiler/</link>
+    <description>Recent content in compiler on Ruoyi Wang&#39;s homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 30 Aug 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/compiler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linguist</title>
+      <link>/project/linguist/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/project/linguist/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
