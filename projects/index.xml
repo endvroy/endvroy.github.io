@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Code Generation from NL</title>
       <link>/projects/code_gen/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0800</pubDate>
       
       <guid>/projects/code_gen/</guid>
       <description>details will be revealed after the review process</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Hybrid Training Neural Programmer-Interpreters</title>
       <link>/projects/hybrid_npi/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0800</pubDate>
       
       <guid>/projects/hybrid_npi/</guid>
       <description>details will be revealed after the review process</description>
@@ -33,7 +33,7 @@
     <item>
       <title>STOKE for HRM</title>
       <link>/projects/stoke/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
       
       <guid>/projects/stoke/</guid>
       <description>In this project, I investigated how well stochastic superoptimization can be migrated to a different architecture. Stochastic superiotimization uses Markov Chain Monte Carlo (MCMC) to sample to program space, using a cost function to guide the sampling process. Human Resource Machine is a game about assembly programming. The architecture operates with one-address code, only one register, one input/output stream and limited memory. The project is efficiently implemented in Rust.</description>
@@ -42,7 +42,7 @@
     <item>
       <title>SuperHuman</title>
       <link>/projects/superhuman/</link>
-      <pubDate>Fri, 08 Dec 2017 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0800</pubDate>
       
       <guid>/projects/superhuman/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>WebTetris</title>
       <link>/projects/web_tetris/</link>
-      <pubDate>Tue, 05 Dec 2017 00:00:00 -0800</pubDate>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0800</pubDate>
       
       <guid>/projects/web_tetris/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Buffer Overflow Detector</title>
       <link>/projects/buffer-overflow-detector/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>/projects/buffer-overflow-detector/</guid>
       <description></description>
@@ -69,7 +69,7 @@
     <item>
       <title>Efficient Path Profiler</title>
       <link>/projects/efficient_path_profiler/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>/projects/efficient_path_profiler/</guid>
       <description></description>
@@ -78,7 +78,7 @@
     <item>
       <title>Call Graph Profiler</title>
       <link>/projects/call_graph_profiler/</link>
-      <pubDate>Sat, 16 Sep 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 +0800</pubDate>
       
       <guid>/projects/call_graph_profiler/</guid>
       <description></description>
@@ -87,7 +87,7 @@
     <item>
       <title>Linguist</title>
       <link>/projects/linguist/</link>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0800</pubDate>
       
       <guid>/projects/linguist/</guid>
       <description></description>
@@ -96,7 +96,7 @@
     <item>
       <title>my shell</title>
       <link>/projects/my_shell/</link>
-      <pubDate>Fri, 03 Feb 2017 00:00:00 -0800</pubDate>
+      <pubDate>Fri, 03 Feb 2017 00:00:00 +0800</pubDate>
       
       <guid>/projects/my_shell/</guid>
       <description></description>
@@ -105,7 +105,7 @@
     <item>
       <title>MiniSQL</title>
       <link>/projects/minisql/</link>
-      <pubDate>Wed, 25 Jan 2017 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0800</pubDate>
       
       <guid>/projects/minisql/</guid>
       <description></description>

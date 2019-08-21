@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Code Generation from NL</title>
       <link>/projects/code_gen/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0800</pubDate>
       
       <guid>/projects/code_gen/</guid>
       <description>details will be revealed after the review process</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Hybrid Training Neural Programmer-Interpreters</title>
       <link>/projects/hybrid_npi/</link>
-      <pubDate>Mon, 10 Dec 2018 00:00:00 -0800</pubDate>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0800</pubDate>
       
       <guid>/projects/hybrid_npi/</guid>
       <description>details will be revealed after the review process</description>
