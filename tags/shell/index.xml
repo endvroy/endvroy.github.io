@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 03 Feb 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 03 Feb 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>my shell</title>
       <link>/projects/my_shell/</link>
-      <pubDate>Fri, 03 Feb 2017 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 03 Feb 2017 00:00:00 -0500</pubDate>
       
       <guid>/projects/my_shell/</guid>
       <description></description>

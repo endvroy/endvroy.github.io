@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/program-analysis/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Buffer Overflow Detector</title>
       <link>/projects/buffer-overflow-detector/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>/projects/buffer-overflow-detector/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Efficient Path Profiler</title>
       <link>/projects/efficient_path_profiler/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>/projects/efficient_path_profiler/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Call Graph Profiler</title>
       <link>/projects/call_graph_profiler/</link>
-      <pubDate>Sat, 16 Sep 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 16 Sep 2017 00:00:00 -0400</pubDate>
       
       <guid>/projects/call_graph_profiler/</guid>
       <description></description>

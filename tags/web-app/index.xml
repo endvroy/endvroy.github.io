@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/web-app/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>WebTetris</title>
       <link>/projects/web_tetris/</link>
-      <pubDate>Tue, 05 Dec 2017 00:00:00 +0800</pubDate>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 -0500</pubDate>
       
       <guid>/projects/web_tetris/</guid>
       <description></description>

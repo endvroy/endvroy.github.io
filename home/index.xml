@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Academic</title>
       <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
@@ -33,17 +33,16 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/about/</guid>
-      <description>I am an undergraduate in the Computer Science Dual-Degree Program (DDP) between Simon Fraser University and Zhejiang University. I am broadly interested in combining symbolic and statistical/stochastic methods, especially in the area of programming languages and machine learning. I have worked with Prof. Nick Sumner and Prof. Anoop Sarkar. I am also interested in Quantum Computing following Prof. Valentine Kabanets&amp;rsquo;s introductions. Make sure to check my resume.
-My interest also includes global culture, history, and philosophy.</description>
+      <description>I am a Master&amp;rsquo;s student New York University (Courant). I am interested in generative models and representation learning, preferably from a more theoretical point of view. I volunteered in the Music X Lab at NYU Shanghai on a project on polyphonic music generation. I was a research assistant with Prof. Rajesh Ranganath on molecule generation. I have done several surveys on different aspects of generative models. Please have a look at them on this website.</description>
     </item>
     
     <item>
       <title>Projects</title>
       <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/projects/</guid>
       <description></description>
@@ -61,7 +60,7 @@ My interest also includes global culture, history, and philosophy.</description>
     <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>
@@ -70,7 +69,7 @@ My interest also includes global culture, history, and philosophy.</description>
     <item>
       <title>Recent Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
@@ -79,16 +78,16 @@ My interest also includes global culture, history, and philosophy.</description>
     <item>
       <title>Honors</title>
       <link>/home/honors/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/honors/</guid>
-      <description> Undergraduate Open Scholarship, Simon Fraser University, 2018 Undergraduate Open Scholarship, Simon Fraser University, 2017 5th Place, Microsoft Coding Competition, 2016  </description>
+      <description> Graduated with Distinction, Simon Fraser University, 2019 Undergraduate Open Scholarship, Simon Fraser University, 2018 Undergraduate Open Scholarship, Simon Fraser University, 2017 5th Place, Microsoft Coding Competition, 2016  </description>
     </item>
     
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>

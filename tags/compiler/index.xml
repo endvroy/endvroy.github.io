@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 30 Aug 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2017 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/compiler/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Linguist</title>
       <link>/projects/linguist/</link>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 -0400</pubDate>
       
       <guid>/projects/linguist/</guid>
       <description></description>
