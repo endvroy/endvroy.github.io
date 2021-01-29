@@ -11,12 +11,42 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Polyphonic Music Generation</title>
+      <link>/projects/music_gen/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/projects/music_gen/</guid>
+      <description>&lt;p&gt;Learned chord and rhythm representations can be swapped directly for controlled generation. Disentanglement is enforced by introducing auxiliary tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generalized Bayesian GAN</title>
+      <link>/projects/bayesian_gan/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/projects/bayesian_gan/</guid>
+      <description>&lt;p&gt;Recast the alternating update of the generator and discriminator as Gibbs sampling, then use that to extended Bayesian GAN to multiple component cases (e.g. adversarial autoencoders). The resulting theoretical framework also applies to follow-up works like ProbGAN.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Landscape Relighting</title>
+      <link>/projects/landscape_relighting/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/projects/landscape_relighting/</guid>
+      <description>&lt;p&gt;Collected 240k labeled data from the GTA game by coding a mod, then Trained with U-Net with perceptual loss&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Code Generation from NL</title>
       <link>/projects/code_gen/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>/projects/code_gen/</guid>
-      <description>&lt;p&gt;details will be revealed after the review process&lt;/p&gt;
+      <description>&lt;p&gt;Beat the state-of-art on the Django dataset&lt;/p&gt;
 </description>
     </item>
     

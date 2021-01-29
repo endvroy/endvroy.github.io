@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Polyphonic Music Generation</title>
+      <link>/projects/music_gen/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 -0500</pubDate>
+      
+      <guid>/projects/music_gen/</guid>
+      <description>Learned chord and rhythm representations can be swapped directly for controlled generation. Disentanglement is enforced by introducing auxiliary tasks.</description>
+    </item>
+    
+    <item>
+      <title>Generalized Bayesian GAN</title>
+      <link>/projects/bayesian_gan/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/projects/bayesian_gan/</guid>
+      <description>Recast the alternating update of the generator and discriminator as Gibbs sampling, then use that to extended Bayesian GAN to multiple component cases (e.g. adversarial autoencoders). The resulting theoretical framework also applies to follow-up works like ProbGAN.</description>
+    </item>
+    
+    <item>
+      <title>Landscape Relighting</title>
+      <link>/projects/landscape_relighting/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>/projects/landscape_relighting/</guid>
+      <description>Collected 240k labeled data from the GTA game by coding a mod, then Trained with U-Net with perceptual loss</description>
+    </item>
     
     <item>
       <title>Code Generation from NL</title>
@@ -18,7 +45,7 @@
       <pubDate>Mon, 10 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>/projects/code_gen/</guid>
-      <description>details will be revealed after the review process</description>
+      <description>Beat the state-of-art on the Django dataset</description>
     </item>
     
     <item>

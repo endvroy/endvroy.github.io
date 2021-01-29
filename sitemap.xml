@@ -4,6 +4,30 @@
     
     <url>
     
+      <loc>/projects/music_gen/</loc>
+      <lastmod>2020-03-05T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/projects/bayesian_gan/</loc>
+      <lastmod>2019-12-05T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/projects/landscape_relighting/</loc>
+      <lastmod>2019-12-05T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/projects/code_gen/</loc>
       <lastmod>2018-12-10T00:00:00-05:00</lastmod>
     </url>
@@ -101,7 +125,7 @@
     <url>
     
       <loc>/projects/</loc>
-      <lastmod>2018-12-10T00:00:00-05:00</lastmod>
+      <lastmod>2020-03-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -170,8 +194,17 @@
     
     <url>
     
+      <loc>/tags/generative-models/</loc>
+      <lastmod>2020-03-05T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/machine-learning/</loc>
-      <lastmod>2018-12-10T00:00:00-05:00</lastmod>
+      <lastmod>2020-03-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
